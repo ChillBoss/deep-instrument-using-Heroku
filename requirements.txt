@@ -8,4 +8,4 @@ numpy
 pandas
 scikit-learn
 soundfile
-pip install tensorflow_gpu-1.0.0rc2-cp35-cp35m-win_amd64.whl
+tensorflow_gpu-1.0.0rc2-cp35-cp35m-win_amd64.whl
